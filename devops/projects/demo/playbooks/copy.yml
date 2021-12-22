@@ -1,2 +1,0 @@
-- name: copy file
-  template: src=../data/new.conf dest=/tmp/new.txt
